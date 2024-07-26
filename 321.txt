@@ -1,0 +1,11 @@
+A15665214*
+Done! Congratulations on your new bot. You will find it at t.me/tbia_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+7383215741:AAF_vwY277_jf-HRfpCfSg6jNh0ReCi2y0w
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+https://edgarglienke.com.ar/wp-content/uploads/elementor/thumbs/tu-imagen-qkt6ea1ci7wsexcgs4u34a3irrdd347jpzmhwy7cg4.jpg
+
+https://www.youtube.com/watch?v=M9EuntHcQVo&t=134s
